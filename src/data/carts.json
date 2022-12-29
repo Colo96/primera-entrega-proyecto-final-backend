@@ -1,0 +1,150 @@
+[
+	{
+		"id": 1,
+		"products": [
+			{
+				"id": 1,
+				"title": "Nintendo Switch",
+				"description": "Nintendo Switch OLED 64GB Standard color rojo neón, azul neón y negro",
+				"code": "nin7703",
+				"price": 289999,
+				"status": true,
+				"stock": 7,
+				"category": "Consolas",
+				"thumbnail": []
+			},
+			{
+				"id": 2,
+				"title": "Sony Playstation 5",
+				"description": "Sony Playstation 5 825GB Standard color blanco y negro",
+				"code": "son9821",
+				"price": 341999,
+				"status": true,
+				"stock": 13,
+				"category": "Consolas",
+				"thumbnail": []
+			},
+			{
+				"id": 3,
+				"title": "Microsonft Xbox Series X",
+				"description": "Microsonft Xbox Series X 1TB Standard color negro",
+				"code": "mic1778",
+				"price": 329999,
+				"status": true,
+				"stock": 20,
+				"category": "Consolas",
+				"thumbnail": []
+			},
+			{
+				"id": 4,
+				"title": "Apple Iphone 14 Pro",
+				"description": "Apple Iphone 14 Pro (1 TB) - Color oro",
+				"code": "iph7779",
+				"price": 819999,
+				"status": true,
+				"stock": 15,
+				"category": "Celulares",
+				"thumbnail": []
+			},
+			{
+				"id": 5,
+				"title": "Xiaomi 11T Pro",
+				"description": "Xiaomi 11T Pro 8GB RAM 256GB ROM",
+				"code": "xia8087",
+				"price": 299999,
+				"status": true,
+				"stock": 27,
+				"category": "Celulares",
+				"thumbnail": []
+			},
+			{
+				"id": 6,
+				"title": "Google Pixel 7 Pro",
+				"description": "Google Pixel 7 Pro 512gb",
+				"code": "goo7075",
+				"price": 565000,
+				"status": true,
+				"stock": 25,
+				"category": "Celulares",
+				"thumbnail": []
+			},
+			{
+				"id": 7,
+				"title": "Notebook Gamer Acer Nitro 5",
+				"description": "Notebook Gamer Acer Nitro 5 - Core I5 - 8gb - Ssd - 15.6 - Gtx1650",
+				"code": "acer707",
+				"price": 340999,
+				"status": true,
+				"stock": 5,
+				"category": "Notebooks",
+				"thumbnail": []
+			},
+			{
+				"id": 8,
+				"title": "Notebook Acer Aspire 5 Slim",
+				"description": "Notebook Acer Aspire 5 Slim - Ryzen 3 - 4gb - 128gb - 15.6 - Win 10 S",
+				"code": "acer997",
+				"price": 167399,
+				"status": true,
+				"stock": 9,
+				"category": "Notebooks",
+				"thumbnail": []
+			},
+			{
+				"id": 9,
+				"title": "Notebook Asus 15.6",
+				"description": "Notebook Asus 15.6 Ryzen 7 6800h 16g 512gb Rtx3060 W11h",
+				"code": "asus777",
+				"price": 899606,
+				"status": true,
+				"stock": 12,
+				"category": "Notebooks",
+				"thumbnail": []
+			},
+			{
+				"id": 10,
+				"title": "Silla Gamer Fire Panter",
+				"description": "Tapizado en ecocuero con detalles en diferentes colores. Respaldo alto que permite el apoyo total de la espalda y la cabeza. Ergonómica y basculante, giratoria con apoyabrazos acolchados y sistema de regulación de altura a gas. Almoadilla para soporte de cabeza. Armado sencillo.",
+				"code": "panter7",
+				"price": 38999,
+				"status": true,
+				"stock": 17,
+				"category": "SillasGamer",
+				"thumbnail": []
+			},
+			{
+				"id": 11,
+				"title": "Silla Gaming Xtrike-Me GC-901 Negro/Rojo",
+				"description": "La silla gaming GC-901 te permitirá mantener una buena postura y moverte libremente mientras trabajas o jugás. Su diseño brinda un increíble estilo gamer. Además, su cómodo asiento junto con los reposabrazos otorgan la comodidad que necesitás para esos momentos donde tenés que estar sentado por largas horas.",
+				"code": "xtrike9",
+				"price": 55999,
+				"status": true,
+				"stock": 19,
+				"category": "SillasGamer",
+				"thumbnail": []
+			},
+			{
+				"id": 12,
+				"title": "Silla Sillón Gamer Cuello Ergonómico Apoyapiés Pro Negro",
+				"description": "Silla Sillón Gamer Cuello Ergonómico Apoyapiés Pc Gamer Pro Detalles técnicos del producto: Brazos móviles que se pliegan Apoya cabezas ergonómico Altura ajustable aprox 8cm Giratoria 360 Ampliamente acolchado, incluidos los brazos (ajustables hacia arriba y hacia abajo) Apoyabrazos 4D Elevador de gas clase 4 4.80 mm Base de nylon de 5.350 mm y ruedas de nylon de 6.60 mm. Base de hierro de 5.350mm Ruedas de nailon de 6.60mm. Dos almohadas extraíbles Medidas aproximadas: Tamaño del producto: (Pr x An x Al) 66 x 70 x (125-133) cm Tamaño del respaldo de la silla: (An x Al) 61 x 77 cm Tamaño del cojín del asiento: (An x Pr) 52 x 66 cm Altura del asiento: 48-56 cm (ajustable) Altura del reposabrazos: 68-76 cm (ajustable) Tamaño del paquete de envío: 83 X 65 X 33cm , 22kg Material: Cuero negro de fibra de carbono y cuero PU, espuma de alta densidad. Reclinable: 90°-180° Garantía de 3 meses por fallas de fábrica",
+				"code": "game999",
+				"price": 93025,
+				"status": true,
+				"stock": 3,
+				"category": "SillasGamer",
+				"thumbnail": []
+			},
+			{
+				"id": 13,
+				"title": "Cortabarba Philips MG3711/15",
+				"description": "El cortabarba inalámbrico MG3711/15 posee cuchillas autoafilables que no irritan la piel logrando un recorte perfecto,a la vez que los accesorios son lavables para facilitar la limpieza. Cuenta con un soporte para almacenamiento, donde el recortador y los accesorios estarán siempre listos para usar. ",
+				"code": "corta99",
+				"price": 6999,
+				"status": true,
+				"stock": 1,
+				"category": "Cortabarbas",
+				"thumbnail": []
+			}
+		]
+	}
+]
